@@ -59,7 +59,7 @@ To install the project follow these steps:
 
 Using ORM in e-commerce back ends enables developers to work with database objects in a more intuitive, object-oriented manner.
 This allows for easy manipulation of e-commerce data, such as products, categories, customers, orders, and transactions, without writing complex SQL queries. 
-You can also watch a video demonstration of the application [Click Here](https://drive.google.com/file/d/14R0wRYhKE3v4Gv_jhZqa_PwlYcL9EL0W/view).
+You can also watch a video demonstration of the application [Click Here](https://drive.google.com/file/d/1lRZbMy1HBfEviQD6mfXQb_gTqgphk7DA/view).
 
 ## User Story
 ```
